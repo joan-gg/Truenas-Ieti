@@ -132,7 +132,7 @@ Y anyadimos los dos recursos.
 
 Y ya tendremos las bibliotecas.
 
-![image](https://user-images.githubusercontent.com/84206290/119532347-170d9c00-bd85-11eb-82b2-4f5da31b4613.png)
+![image](https://user-images.githubusercontent.com/91557892/172471386-a65bdba4-459d-486b-9da8-c8d302fe190e.png)
 
 
 Si tenemos peliculas dentro del samba para sincronizarla, clicamos en la biblioteca,en los tres puntos y le damos a actualizar metadatos.
