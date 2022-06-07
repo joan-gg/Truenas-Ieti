@@ -141,6 +141,7 @@ Si tenemos peliculas dentro del samba para sincronizarla, clicamos en la bibliot
 
 Y se nos sincronizarían las peliculas.
 
-![image](https://user-images.githubusercontent.com/84206290/119532787-7f5c7d80-bd85-11eb-814a-3dafce4416ac.png)
+![image](https://user-images.githubusercontent.com/91557892/172471945-5778adfc-cc11-4719-9747-1b57171be51f.png)
 
+![image](https://user-images.githubusercontent.com/91557892/172471869-9beb0f10-7f9a-40e2-8c10-5bee358045dc.png)
 
