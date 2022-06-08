@@ -22,7 +22,7 @@ Además el servidor NAS tendrá una parte con SAMBA para poder añadir contenido
 
 1. TrueNAS: https://nas.ietinas.tk
 2. Nextcloud: https://nc.ietinas.tk
-3. Plex_Server: https://plex.ietinas.tk
+3. Plex_Server: https://plex.ietinas.tk:32400
 4. Influx (Grafana): http://monitor.ietinas.tk:3000
 5. BackBlaze: https://www.backblaze.com/
 
